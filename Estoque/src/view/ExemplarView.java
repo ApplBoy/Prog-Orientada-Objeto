@@ -297,15 +297,10 @@ public class ExemplarView extends javax.swing.JFrame {
 
                 Estoque cadastroEstoque = new Estoque(quantidade, new Produto(custo, descricao, new Fornecedor(nomeFor, endereco, email)));
 
-                if (quantidade>0){
+                tabela.addRow(dados);
+                estoqueBanco.estante.add(cadastroEstoque);
+                liparCaixasTexto();
 
-                            tabela.addRow(dados);
-                            estoqueBanco.estante.add(cadastroEstoque);
-                            liparCaixasTexto();
-
-                } else {
-                    JOptionPane.showMessageDialog(null, "Insira uma Quantidade Válida de Produtos Disponíveis...");
-                }
             } else {
                 JOptionPane.showMessageDialog(null, "A Quantidade de Exemplares tem que ser Maior do que 0...");
             }
