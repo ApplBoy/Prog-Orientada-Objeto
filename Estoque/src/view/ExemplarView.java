@@ -318,7 +318,7 @@ public class ExemplarView extends javax.swing.JFrame {
         int remover = jTable2.getSelectedRow(); // Salva a seleção na Tabela
         if (remover != -1){
             
-            // Mude a qtd de exemplares do livro selecionado no vetor por seu
+            // Mude a qtd de exemplares do estoque selecionado no vetor por seu
             // decremento em 1.
             estoqueBanco.estante.get(remover).setQuantidade(estoqueBanco.estante.get(remover).getQuantidade()-1);
             
