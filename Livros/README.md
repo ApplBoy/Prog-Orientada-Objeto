@@ -4,7 +4,7 @@ Esse programa foi realizado como uma forma de praticar e estudar os elementos e 
 
 Ele permite o usuário selecionar um autor e uma editora predeterminada pelo software, além de adicionar o título do livro e assimilar o seu *serial* ao mesmo.
 
-Um vídeo demosntrativo de sua execução está disponível aqui:
+Um vídeo demonstrativo de sua execução está disponível aqui:
 
 https://user-images.githubusercontent.com/110516080/195930684-12c18986-57fe-4f92-95dc-63316b443ea1.mp4
 
