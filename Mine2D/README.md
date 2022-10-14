@@ -22,6 +22,8 @@ Aqui jaz uma versão menor do famoso jogo 3D construido em Java: Minecraft.
 
 Gostei de implementar esse pequeno projeto, gastei aproximadamente 8 horas para realizar esse projeto, seguindo o tutorial online realizado por: `Ulixava`.
 
+Caso deseja ver o código fonte, só acessar a pasta [`/src/java`](/Mine2D/src/java), mas caso deseja executá-lo diretamente, só baixar o [`Mine2D.jar`](/Mine2D/Mine2D.jar) e executá-lo como programa.
+
 ### Obs.:
 
 *As artes utilizadas nesse jogo não são de minha autoria, e não busco violar nenhum direito autoral dos mesmo, esse projeto só existe com finalidades educativas, caso seja o criador de alguma das artes aqui utilizadas por favor comunique comigo, por meio do Discord ou qualquer outro método que for possível, e caso deseja que eu remova sua arte do projeto irei remover qualquer conteúdo de sua autoria sem problemas, caso queria que atribua os créditos, disponibilizarei os créditos no projeto também.*
