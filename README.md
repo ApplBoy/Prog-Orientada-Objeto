@@ -10,4 +10,4 @@ Esses códigos foram feitos com ajuda do criador de interface forms e editor do 
 - 🗓️ Calendário.
 - 📚 [Estoque de Livros](/Livros/).
 - 📥 [Estoque Geral](/Estoque).
-- 🧊 Minecraft 2D. (WIP)
+- 🧊 [Minecraft 2D](/Mine2D). (WIP)
